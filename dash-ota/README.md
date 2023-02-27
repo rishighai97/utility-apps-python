@@ -1,4 +1,4 @@
 # OTA Hotels Dashboard
 
 - Dashboard to analyze hotels booking customer base for an imaginary OTA system
-- Application written for the following [Blog Post](https://rishighai97.medium.com/building-interactive-analytics-and-reporting-dashboards-for-ota-businesses-using-dash-13945ed78831)
+- Application written for the following [Blog Post](https://medium.com/@rishighai97/building-interactive-business-dashboards-for-online-travel-agencies-using-dash-framework-967c1ecfdc13)
